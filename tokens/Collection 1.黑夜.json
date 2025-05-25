@@ -1,0 +1,48 @@
+{
+  "black": {
+    "100": {
+      "$type": "color",
+      "$value": "#8f7f7f",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#b7abab",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    }
+  },
+  "grey": {
+    "100": {
+      "$type": "color",
+      "$value": "#d3cccc",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    }
+  }
+}
